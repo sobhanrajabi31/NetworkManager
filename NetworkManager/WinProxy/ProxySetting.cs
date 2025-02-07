@@ -2,7 +2,7 @@
 
 namespace NetworkManager.WinProxy
 {
-    public class SetProxy
+    public class ProxySetting
     {
         const string REG_PATH = @"Software\Microsoft\Windows\Currentversion\Internet Settings";
         const string ENALBE = "ProxyEnable";
